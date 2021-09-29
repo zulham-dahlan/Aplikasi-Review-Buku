@@ -1,5 +1,5 @@
 # Aplikasi Review Buku
--- Aplikasi yang berisikan list review buku  
+--Aplikasi yang berisikan list review buku  
 **Fitur aplikasi :**
 * SplashScreen
 * Halaman Utama : menampilkan list buku.
